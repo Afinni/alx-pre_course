@@ -1,1 +1,1 @@
-Read me under 0x01-git
+Read me 0x01-git
